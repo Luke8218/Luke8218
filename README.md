@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my GitHub account for all things related to my QMUL studies! 🎓
+
 <!--
 **Luke8218/Luke8218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
