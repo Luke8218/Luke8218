@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-This is my GitHub account for all things related to my **QMUL** studies! 🎓
+This is my GitHub account for all things related to my **QMUL** studies! 🎓 I am on the Digital & Technology Solutions Degree Apprenticeship course, specialising in the Software Development pathway.
+
+It will be used in parallel with my programming modules, such as IOT451U - Fundamentals of Programming.
 
 <!--
 **Luke8218/Luke8218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
